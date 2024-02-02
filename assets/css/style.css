@@ -107,6 +107,7 @@ nav {
     object-fit: cover;
     border-radius: 5%;
     margin: 16px 22px 25px 25px;
+    box-shadow: 5px 5px 10px #888888;
 }
 .bloccoImmagini p{
     margin: 0;
