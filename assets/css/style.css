@@ -1,0 +1,130 @@
+/* Your styles here */
+body {
+  padding: 0;
+  margin: 0;
+  background-color: rgba(233, 237, 238, 1);
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+.navigazione {
+  color: white;
+  padding: 0;
+}
+.navigazione li {
+  padding: 8px 13px;
+}
+.navigazione ul {
+  padding: 0px 10px;
+}
+
+.bianco,
+.bianco a {
+  color: white;
+  text-align: center;
+}
+
+.sfondoRegali {
+  background-image: url(../images/bg-image.png);
+}
+
+header {
+  background-color: rgba(34, 47, 63, 1);
+  height: 10%;
+}
+nav {
+  background-color: rgba(53, 71, 88, 1);
+}
+.sfondoArancione {
+  background-color: #f56600;
+}
+
+.bloccoImmagini {
+  background-color: white;
+}
+
+.ritornaSu {
+  background-color: rgba(53, 71, 88, 1);
+  height: 3em;
+}
+.ritornaSu p{
+    padding: 13px;
+}
+.logoSotto {
+  background-color: #222f3f;
+  text-align: center;
+  height: 10em;
+}
+.logoSotto img{
+    height: 7vh;
+    padding: 50px;
+}
+ul {
+  display: inline;
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  display: inline-flex;
+}
+ul li {
+  padding: 15px;
+}
+
+#testa {
+  height: 10vh;
+}
+#testa img {
+  height: 6vh;
+  padding: 2vh;
+  padding-left: 5vh;
+}
+
+nav {
+  height: 5vh;
+}
+
+.sfondoArancione {
+  height: 2.4em;
+}
+.sfondoRegali {
+  height: 12em;
+}
+
+.sfondoArancione p {
+  margin: 0;
+  padding: 8px;
+}
+.sfondoRegali , .sfondoArancione , .bloccoImmagini, .bloccoimmagine{
+  margin: 5vh;
+}
+.centroP {
+    text-align: center;
+}
+
+.bloccoImmagini img{
+    display: inline;
+    height: 24em;
+    width: 18em;
+    object-fit: cover;
+    border-radius: 5%;
+    margin: 16px 22px 25px 25px;
+}
+.bloccoImmagini p{
+    margin: 0;
+    padding: 16px 4px 0px 23px;
+}
+.linkBlu {
+    padding: 5px;
+    color: rgba(23, 85, 91, 1);
+    font-size: 0.9em;
+    font-weight: bold;
+}
+.sfondoRegali h2{
+    padding: 64px 0px 12px 0;
+}
+.sfondoRegali p{
+    font-weight: bold;
+}
+
+.bloccoimmagine img {
+    width: 95.3vw;
+}
