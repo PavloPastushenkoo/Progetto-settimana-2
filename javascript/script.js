@@ -1,10 +1,11 @@
 /* ESERCIZIO 1
     Dato il seguente array, scrivi del codice per stampare ogni elemento dell'array in console.
 */
-const pets = ["dog", "cat", "hamster", "redfish"];
+const pets = ['dog', 'cat', 'hamster', 'redfish']
 
-console.log(pets);
-
+for (let i = 0; i < arrayEsempio.length; i++) {
+  console.log(pets[i]);
+}
 /* ESERCIZIO 2
     Scrivi del codice per ordinare alfabeticamente gli elementi dell'array "pets".
 */
